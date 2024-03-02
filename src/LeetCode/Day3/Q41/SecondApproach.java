@@ -1,4 +1,4 @@
-package LeetCode.Q41;
+package LeetCode.Day3.Q41;
 
 import org.junit.Test;
 

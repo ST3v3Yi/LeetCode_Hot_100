@@ -33,17 +33,18 @@
 
 ### 第三天
 
-#### <a href=".\Q53\Q53.md" style="text-decoration: none;">Q53.最大子数组和[<font color="orange">中等</font>]</a>
+#### <a href=".\Day3\Q53\Q53.md" style="text-decoration: none;">Q53.最大子数组和[<font color="orange">中等</font>]</a>
 
-#### <a href=".\Q56\Q56.md" style="text-decoration: none;">Q56.合并区间[<font color="orange">中等</font>]</a>
+#### <a href=".\Day3\Q56\Q56.md" style="text-decoration: none;">Q56.合并区间[<font color="orange">中等</font>]</a>
 
-#### <a href=".\Q189\Q189.md" style="text-decoration: none;">Q189.轮转数组[<font color="orange">中等</font>]</a>
+#### <a href=".\Day3\Q189\Q189.md" style="text-decoration: none;">Q189.轮转数组[<font color="orange">中等</font>]</a>
 
-#### <a href=".\Q238\Q238.md" style="text-decoration: none;">Q238.除自身以外数组的乘积[<font color="orange">中等</font>]</a>
+#### <a href=".\Day3\Q238\Q238.md" style="text-decoration: none;">Q238.除自身以外数组的乘积[<font color="orange">中等</font>]</a>
 
-#### <a href=".\Q41\Q41.md" style="text-decoration: none;">Q41.缺失的第一个正数[<font color="red">困难</font>]</a>
+#### <a href=".\Day3\Q41\Q41.md" style="text-decoration: none;">Q41.缺失的第一个正数[<font color="red">困难</font>]</a>
 
 ------
 
 ### 第四天
 
+#### <a href=".\Day4\Q73\Q73.md" style="text-decoration: none;">Q73.矩阵置零[<font color="orange">中等</font>]</a>

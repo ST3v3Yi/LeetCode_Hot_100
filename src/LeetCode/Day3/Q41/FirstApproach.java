@@ -1,9 +1,6 @@
-package LeetCode.Q41;
+package LeetCode.Day3.Q41;
 
 import org.junit.Test;
-
-import java.util.Deque;
-import java.util.LinkedList;
 
 public class FirstApproach {
     @Test
